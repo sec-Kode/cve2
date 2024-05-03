@@ -40,4 +40,5 @@ The kode folder was deleted successfully
 
 ![image](https://github.com/sec-Kode/cve2/assets/46676387/361df370-29fc-49cd-bc72-7b5537e88d90)
 
+If the deletion path of the payload is ../../../, the entire website directory will be deleted, causing all directories on the web to be deleted.
 
